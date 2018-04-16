@@ -1,0 +1,3 @@
+({
+    shouldDeps: ['image', 'logo']
+})

@@ -1,0 +1,9 @@
+.feed-item {
+    display: grid;
+    width: 100%;
+    grid-gap: 0;
+    position: relative;
+    color: #000;
+    align-content: start;
+    justify-content: start;
+}

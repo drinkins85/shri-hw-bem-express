@@ -1,0 +1,5 @@
+@media (min-width: 1200px) {
+    .feed-item_size_m {
+        grid-template-rows: 30px 310px auto;
+    }
+}

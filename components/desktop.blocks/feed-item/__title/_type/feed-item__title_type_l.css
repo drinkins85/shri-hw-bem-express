@@ -1,0 +1,5 @@
+@media (min-width: 1200px) {
+    .feed-item__title_type_l .title {
+        max-height: 80px;
+    }
+}

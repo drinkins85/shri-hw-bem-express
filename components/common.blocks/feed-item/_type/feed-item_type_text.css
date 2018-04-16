@@ -1,0 +1,13 @@
+.feed-item_type_text {
+    display: block;
+}
+
+.feed-item_type_text .feed-item__share {
+    display: grid;
+    position: static;
+}
+
+.feed-item_type_text .feed-item__text {
+    max-height: 150px;
+    overflow: hidden;
+}

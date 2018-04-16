@@ -1,0 +1,7 @@
+.news-feed {
+    display: grid;
+    width: 100%;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 50px 16px;
+}

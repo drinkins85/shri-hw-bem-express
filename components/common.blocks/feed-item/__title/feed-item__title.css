@@ -1,0 +1,12 @@
+.feed-item__title {
+    z-index: 10;
+    width: 100%;
+}
+
+.feed-item__title .title {
+    background-color: #fff;
+    border-bottom: 7px solid #fff;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+}

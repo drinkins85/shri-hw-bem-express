@@ -1,0 +1,5 @@
+.feed-item_size_m {
+    grid-column: span 6;
+    grid-template-columns: auto;
+    grid-template-rows: 30px 204px minmax(auto,69px);
+}

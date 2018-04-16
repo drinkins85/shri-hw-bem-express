@@ -1,0 +1,7 @@
+.link_hovered {
+    color: darkred;
+}
+
+.link_hovered .image{
+    filter: sepia(150%);
+}

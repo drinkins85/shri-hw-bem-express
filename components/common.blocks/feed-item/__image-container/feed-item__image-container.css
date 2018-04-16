@@ -1,0 +1,12 @@
+.feed-item__image-container {
+    overflow: hidden;
+    display: grid;
+    position: relative;
+    vertical-align: bottom;
+    border-radius: 5px;
+}
+
+.feed-item__image-container a {
+    margin-top: auto;
+}
+

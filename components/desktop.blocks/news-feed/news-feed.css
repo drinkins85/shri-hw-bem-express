@@ -1,0 +1,7 @@
+@media (min-width: 1200px) {
+    .news-feed {
+        grid-auto-flow: row dense;
+        grid-gap: 100px 50px;
+        justify-items: center;
+    }
+}

@@ -1,0 +1,6 @@
+@media (min-width: 1200px) {
+    .feed-item_type_text .feed-item__text {
+        max-height: 215px;
+        overflow: hidden;
+    }
+}

@@ -1,0 +1,6 @@
+.feed-item__share_type_l {
+    display: grid;
+    width: 100%;
+    justify-content: space-between;
+    grid-template-columns: 20px 20px;
+}

@@ -1,0 +1,4 @@
+.feed-item__description {
+    display: grid;
+    box-sizing: border-box;
+}

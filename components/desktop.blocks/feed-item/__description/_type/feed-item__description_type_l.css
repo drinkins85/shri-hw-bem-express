@@ -1,0 +1,5 @@
+@media (min-width: 1200px) {
+    .feed-item__description_type_l {
+        height: 200px;
+    }
+}

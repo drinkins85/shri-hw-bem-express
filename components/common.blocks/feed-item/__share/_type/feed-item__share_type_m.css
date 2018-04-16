@@ -1,0 +1,7 @@
+.feed-item__share_type_m {
+    display: grid;
+    align-items: center;
+    justify-content: space-around;
+    align-content: space-between;
+    width: 100%;
+}

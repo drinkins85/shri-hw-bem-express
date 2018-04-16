@@ -1,0 +1,5 @@
+@media (min-width: 1200px) {
+    .feed-item_size_l {
+        grid-column: span 9;
+    }
+}

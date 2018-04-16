@@ -1,0 +1,9 @@
+.feed-item__share_type_s {
+    display: block;
+    position: relative;
+    text-align: right;
+    left: 10px;
+    top: -50px;
+    margin-bottom: -50;
+    z-index: 9;
+}

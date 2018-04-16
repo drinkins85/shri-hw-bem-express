@@ -1,0 +1,13 @@
+.feed-item_size_l {
+    grid-column: span 12;
+    grid-template-columns: 4fr 2fr;
+    grid-template-rows: auto;
+    grid-gap: 0 16px;
+}
+
+.feed-item_size_l .feed-item__image-container {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 4;
+}
